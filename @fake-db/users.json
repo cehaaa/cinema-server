@@ -1,0 +1,32 @@
+[
+  {
+    "id" : 1,
+    "name" : "Mikey",
+    "online_status" : true,
+    "profile_image" : "1.jpg"
+  },
+  {
+    "id" : 2,
+    "name" : "Kanna",
+    "online_status" : true,
+    "profile_image" : "2.jpg"
+  },
+  {
+    "id" : 3,
+    "name" : "Kazutora",
+    "online_status" : false,
+    "profile_image" : "3.jpg"   
+  },
+  {
+    "id" : 4,
+    "name" : "Gojou",
+    "online_status" : false,
+    "profile_image" : "4.jpg"   
+  },
+  {
+    "id" : 5,
+    "name" : "Nezuko",
+    "online_status" : false,
+    "profile_image" : "5.jpg"
+  }
+]

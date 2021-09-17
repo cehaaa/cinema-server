@@ -1,0 +1,46 @@
+[
+  {
+    "id" : 1,
+    "title" : "The Avengers",
+    "movie_banner" : "TheAvengers2012Poster.jpg",
+    "duration" : "2h 23m",
+    "category" : "Actions / Sci Fi",
+    "rating" : 4.5,
+    "total_watch" : "8k",    
+    "is_best_movie" : true,
+    "is_now_showing" : true
+  },
+  {
+    "id" : 2,
+    "title" : "Avengers: End Game",
+    "movie_banner" : "Avengers_Endgame_poster.jpg",
+    "duration" : "3h 1m",
+    "category" : "Actions / Sci Fi",
+    "rating" : 4.5,
+    "total_watch" : "5.2k",
+    "is_best_movie" : true,
+    "is_now_showing" : true
+  },
+  {
+    "id" : 3,
+    "title" : "Captain Marvel",
+    "movie_banner" : "250px-CaptainMarvelPoster2019.jpg",
+    "duration" : "2h 5m",
+    "category" : "Actions / Sci Fi",
+    "rating" : 4.5,
+    "total_watch" : "5k",
+    "is_best_movie" : false,
+    "is_now_showing" : true
+  },  
+  {
+    "id" : 4,
+    "title" : "Ant Man",
+    "movie_banner" : "220px-Ant-Man_poster.jpg",
+    "duration" : "1h 57m",
+    "category" : "Actions / Sci Fi",
+    "rating" : 4.5,
+    "total_watch" : "3.2k",
+    "is_best_movie" : false,
+    "is_now_showing" : true
+  }
+]
