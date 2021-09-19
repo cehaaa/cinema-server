@@ -3,30 +3,35 @@
     "id" : 1,
     "name" : "Mikey",
     "online_status" : true,
-    "profile_image" : "1.jpg"
+    "profile_image" : "1.jpg",
+    "is_friend" : true
   },
   {
     "id" : 2,
     "name" : "Kanna",
-    "online_status" : true,
-    "profile_image" : "2.jpg"
+    "online_status" : false,
+    "profile_image" : "2.jpg",
+    "is_friend" : true
   },
   {
     "id" : 3,
     "name" : "Kazutora",
-    "online_status" : false,
-    "profile_image" : "3.jpg"   
+    "online_status" : true,
+    "profile_image" : "3.jpg"   ,
+    "is_friend" : false
   },
   {
     "id" : 4,
     "name" : "Gojou",
-    "online_status" : false,
-    "profile_image" : "4.jpg"   
+    "online_status" : true,
+    "profile_image" : "4.jpg",
+    "is_friend" : false
   },
   {
     "id" : 5,
     "name" : "Nezuko",
     "online_status" : false,
-    "profile_image" : "5.jpg"
+    "profile_image" : "5.jpg",
+    "is_friend" : false
   }
 ]
